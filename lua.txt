@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/usernamed19dj/Ui/refs/heads/main/Discord"),true))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/d2d7bccbaec74caf87d1c65666c774f7"))()
