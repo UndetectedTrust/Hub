@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/usernamed19dj/Last-one/refs/heads/main/Lasted"))()
