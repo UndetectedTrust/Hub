@@ -8,4 +8,4 @@ for _, blockedId in ipairs(blockedGames) do
     end
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/usernamed19dj/Script/refs/heads/main/luau.txt, true"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/usernamed19dj/Script/refs/heads/main/luau.txt"))()
